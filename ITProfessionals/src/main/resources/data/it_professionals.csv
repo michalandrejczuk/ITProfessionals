@@ -1,0 +1,12 @@
+first_name,last_name,email,specialty,technologies,country_of_residence,amount_of_current_year_bonus,currency
+Michał,Jankowski,michal.jankowski@itpro.com,DevOps Engineer,"Kubernetes, Ansible, Jenkins, Azure, Terraform",Poland,8400,EUR
+Jedrzej,Szelc,jedrzej.szelc@itpro.com,Software Architect,"Java, Spring, Microservices, Docker, AWS, API Management",Poland,12000,EUR
+Michał,Andrejczuk,michal.andrejczuk@itpro.com,Java Champion,"REST, Gradle, Spring, Java, Hibernate, Maven, JPA, TDD",Poland,6676,EUR
+Julia,Kowalska,julia.kowalska@itpro.com,Game Developer,"Qt, OpenGL, DirectX, Game Development, C++, Unreal Engine",Poland,14774,EUR
+Magdalena,Wierzba,magdalena.wierzba@itpro.com,System Administrator,"Linux, Docker, Nagios, Puppet, Zabbix",UK,13998,EUR
+Karolina,Jowialska,karolina.jowialska@itpro.com,Backend Developer,"WebAPI, ASP.NET, .NET, SQL Server, MVC, Entity Framework",Germany,13116,EUR
+Anna,Wiśniewska,anna.wiśniewska@itpro.com,Project Manager,"Microsoft Project, Asana, Slack, Confluence",UK,5765,EUR
+Witold,Nowak,witold.nowak@itpro.com,Project Manager,"Jira, Trello, Basecamp, Wrike, Smartsheet",Poland,5205,EUR
+Jakub,Zając,jakub.zając@itpro.com,iOS Developer,"Cocoa, CoreData, Swift, Xcode, iOS, Objective-C",UK,9646,EUR
+Piotr,Jasiński,piotr.jasiński@itpro.com,Frontend Developer,"JavaScript, Vue, Angular, TypeScript, Node.js",Germany,14239,EUR
+Ewa,Kozłowska,ewa.kozłowska@itpro.com,Web Developer,"PHP, Symfony, HTML, MySQL, Laravel, JavaScript",Germany,6416,EUR
